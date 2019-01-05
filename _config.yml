@@ -1,0 +1,9 @@
+# Site settings
+title: Ere the Day Shall Fall into the Sea
+motto: 存文站。
+email: your-email@domain.com
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
